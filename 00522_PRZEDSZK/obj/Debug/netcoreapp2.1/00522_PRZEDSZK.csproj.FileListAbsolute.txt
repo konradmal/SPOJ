@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\bin\Debug\netcoreapp2.1\00522_PRZEDSZK.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\bin\Debug\netcoreapp2.1\00522_PRZEDSZK.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\bin\Debug\netcoreapp2.1\00522_PRZEDSZK.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\bin\Debug\netcoreapp2.1\00522_PRZEDSZK.dll
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\bin\Debug\netcoreapp2.1\00522_PRZEDSZK.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\obj\Debug\netcoreapp2.1\00522_PRZEDSZK.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\obj\Debug\netcoreapp2.1\00522_PRZEDSZK.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\obj\Debug\netcoreapp2.1\00522_PRZEDSZK.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\obj\Debug\netcoreapp2.1\00522_PRZEDSZK.dll
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\obj\Debug\netcoreapp2.1\00522_PRZEDSZK.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00522_PRZEDSZK\obj\Debug\netcoreapp2.1\00522_PRZEDSZK.csprojAssemblyReference.cache

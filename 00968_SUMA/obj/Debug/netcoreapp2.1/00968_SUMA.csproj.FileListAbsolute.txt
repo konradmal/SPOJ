@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\00968_SUMA\bin\Debug\netcoreapp2.1\00968_SUMA.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00968_SUMA\bin\Debug\netcoreapp2.1\00968_SUMA.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00968_SUMA\bin\Debug\netcoreapp2.1\00968_SUMA.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00968_SUMA\bin\Debug\netcoreapp2.1\00968_SUMA.dll
+C:\Users\Lenovo\source\repos\SPOJ\00968_SUMA\bin\Debug\netcoreapp2.1\00968_SUMA.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00968_SUMA\obj\Debug\netcoreapp2.1\00968_SUMA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00968_SUMA\obj\Debug\netcoreapp2.1\00968_SUMA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00968_SUMA\obj\Debug\netcoreapp2.1\00968_SUMA.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00968_SUMA\obj\Debug\netcoreapp2.1\00968_SUMA.dll
+C:\Users\Lenovo\source\repos\SPOJ\00968_SUMA\obj\Debug\netcoreapp2.1\00968_SUMA.pdb

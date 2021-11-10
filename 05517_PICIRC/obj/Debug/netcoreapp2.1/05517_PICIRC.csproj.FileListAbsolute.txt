@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\05517_PICIRC\bin\Debug\netcoreapp2.1\05517_PICIRC.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\05517_PICIRC\bin\Debug\netcoreapp2.1\05517_PICIRC.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\05517_PICIRC\bin\Debug\netcoreapp2.1\05517_PICIRC.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\05517_PICIRC\bin\Debug\netcoreapp2.1\05517_PICIRC.dll
+C:\Users\Lenovo\source\repos\SPOJ\05517_PICIRC\bin\Debug\netcoreapp2.1\05517_PICIRC.pdb
+C:\Users\Lenovo\source\repos\SPOJ\05517_PICIRC\obj\Debug\netcoreapp2.1\05517_PICIRC.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\05517_PICIRC\obj\Debug\netcoreapp2.1\05517_PICIRC.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\05517_PICIRC\obj\Debug\netcoreapp2.1\05517_PICIRC.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\05517_PICIRC\obj\Debug\netcoreapp2.1\05517_PICIRC.dll
+C:\Users\Lenovo\source\repos\SPOJ\05517_PICIRC\obj\Debug\netcoreapp2.1\05517_PICIRC.pdb

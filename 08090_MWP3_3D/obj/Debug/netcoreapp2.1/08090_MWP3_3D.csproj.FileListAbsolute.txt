@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\bin\Debug\netcoreapp2.1\08090_MWP3_3D.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\bin\Debug\netcoreapp2.1\08090_MWP3_3D.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\bin\Debug\netcoreapp2.1\08090_MWP3_3D.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\bin\Debug\netcoreapp2.1\08090_MWP3_3D.dll
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\bin\Debug\netcoreapp2.1\08090_MWP3_3D.pdb
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\obj\Debug\netcoreapp2.1\08090_MWP3_3D.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\obj\Debug\netcoreapp2.1\08090_MWP3_3D.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\obj\Debug\netcoreapp2.1\08090_MWP3_3D.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\obj\Debug\netcoreapp2.1\08090_MWP3_3D.dll
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\obj\Debug\netcoreapp2.1\08090_MWP3_3D.pdb
+C:\Users\Lenovo\source\repos\SPOJ\08090_MWP3_3D\obj\Debug\netcoreapp2.1\08090_MWP3_3D.csprojAssemblyReference.cache

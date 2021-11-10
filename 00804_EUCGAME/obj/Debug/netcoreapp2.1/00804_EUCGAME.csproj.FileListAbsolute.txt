@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\00804_EUCGAME\bin\Debug\netcoreapp2.1\00804_EUCGAME.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00804_EUCGAME\bin\Debug\netcoreapp2.1\00804_EUCGAME.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00804_EUCGAME\bin\Debug\netcoreapp2.1\00804_EUCGAME.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00804_EUCGAME\bin\Debug\netcoreapp2.1\00804_EUCGAME.dll
+C:\Users\Lenovo\source\repos\SPOJ\00804_EUCGAME\bin\Debug\netcoreapp2.1\00804_EUCGAME.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00804_EUCGAME\obj\Debug\netcoreapp2.1\00804_EUCGAME.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00804_EUCGAME\obj\Debug\netcoreapp2.1\00804_EUCGAME.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00804_EUCGAME\obj\Debug\netcoreapp2.1\00804_EUCGAME.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00804_EUCGAME\obj\Debug\netcoreapp2.1\00804_EUCGAME.dll
+C:\Users\Lenovo\source\repos\SPOJ\00804_EUCGAME\obj\Debug\netcoreapp2.1\00804_EUCGAME.pdb

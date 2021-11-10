@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\bin\Debug\netcoreapp2.1\01276_JSPACE.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\bin\Debug\netcoreapp2.1\01276_JSPACE.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\bin\Debug\netcoreapp2.1\01276_JSPACE.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\bin\Debug\netcoreapp2.1\01276_JSPACE.dll
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\bin\Debug\netcoreapp2.1\01276_JSPACE.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\obj\Debug\netcoreapp2.1\01276_JSPACE.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\obj\Debug\netcoreapp2.1\01276_JSPACE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\obj\Debug\netcoreapp2.1\01276_JSPACE.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\obj\Debug\netcoreapp2.1\01276_JSPACE.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\obj\Debug\netcoreapp2.1\01276_JSPACE.dll
+C:\Users\Lenovo\source\repos\SPOJ\01276_JSPACE\obj\Debug\netcoreapp2.1\01276_JSPACE.pdb

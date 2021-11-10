@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\bin\Debug\netcoreapp2.1\00438_PRIME_T.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\bin\Debug\netcoreapp2.1\00438_PRIME_T.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\bin\Debug\netcoreapp2.1\00438_PRIME_T.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\bin\Debug\netcoreapp2.1\00438_PRIME_T.dll
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\bin\Debug\netcoreapp2.1\00438_PRIME_T.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\obj\Debug\netcoreapp2.1\00438_PRIME_T.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\obj\Debug\netcoreapp2.1\00438_PRIME_T.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\obj\Debug\netcoreapp2.1\00438_PRIME_T.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\obj\Debug\netcoreapp2.1\00438_PRIME_T.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\obj\Debug\netcoreapp2.1\00438_PRIME_T.dll
+C:\Users\Lenovo\source\repos\SPOJ\00438_PRIME_T\obj\Debug\netcoreapp2.1\00438_PRIME_T.pdb

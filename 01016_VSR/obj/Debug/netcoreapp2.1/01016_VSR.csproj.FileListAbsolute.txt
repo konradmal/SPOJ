@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\bin\Debug\netcoreapp2.1\01016_VSR.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\bin\Debug\netcoreapp2.1\01016_VSR.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\bin\Debug\netcoreapp2.1\01016_VSR.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\bin\Debug\netcoreapp2.1\01016_VSR.dll
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\bin\Debug\netcoreapp2.1\01016_VSR.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\obj\Debug\netcoreapp2.1\01016_VSR.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\obj\Debug\netcoreapp2.1\01016_VSR.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\obj\Debug\netcoreapp2.1\01016_VSR.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\obj\Debug\netcoreapp2.1\01016_VSR.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\obj\Debug\netcoreapp2.1\01016_VSR.dll
+C:\Users\Lenovo\source\repos\SPOJ\01016_VSR\obj\Debug\netcoreapp2.1\01016_VSR.pdb

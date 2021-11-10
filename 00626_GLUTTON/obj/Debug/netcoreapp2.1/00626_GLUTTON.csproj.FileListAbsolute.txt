@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\bin\Debug\netcoreapp2.1\00626_GLUTTON.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\bin\Debug\netcoreapp2.1\00626_GLUTTON.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\bin\Debug\netcoreapp2.1\00626_GLUTTON.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\bin\Debug\netcoreapp2.1\00626_GLUTTON.dll
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\bin\Debug\netcoreapp2.1\00626_GLUTTON.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\obj\Debug\netcoreapp2.1\00626_GLUTTON.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\obj\Debug\netcoreapp2.1\00626_GLUTTON.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\obj\Debug\netcoreapp2.1\00626_GLUTTON.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\obj\Debug\netcoreapp2.1\00626_GLUTTON.dll
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\obj\Debug\netcoreapp2.1\00626_GLUTTON.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00626_GLUTTON\obj\Debug\netcoreapp2.1\00626_GLUTTON.csprojAssemblyReference.cache

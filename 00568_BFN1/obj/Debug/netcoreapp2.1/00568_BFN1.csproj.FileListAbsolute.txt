@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\00568_BFN1\bin\Debug\netcoreapp2.1\00568_BFN1.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00568_BFN1\bin\Debug\netcoreapp2.1\00568_BFN1.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00568_BFN1\bin\Debug\netcoreapp2.1\00568_BFN1.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00568_BFN1\bin\Debug\netcoreapp2.1\00568_BFN1.dll
+C:\Users\Lenovo\source\repos\SPOJ\00568_BFN1\bin\Debug\netcoreapp2.1\00568_BFN1.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00568_BFN1\obj\Debug\netcoreapp2.1\00568_BFN1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00568_BFN1\obj\Debug\netcoreapp2.1\00568_BFN1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00568_BFN1\obj\Debug\netcoreapp2.1\00568_BFN1.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00568_BFN1\obj\Debug\netcoreapp2.1\00568_BFN1.dll
+C:\Users\Lenovo\source\repos\SPOJ\00568_BFN1\obj\Debug\netcoreapp2.1\00568_BFN1.pdb

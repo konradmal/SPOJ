@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\00496_FCTRL3\bin\Debug\netcoreapp2.1\00496_FCTRL3.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00496_FCTRL3\bin\Debug\netcoreapp2.1\00496_FCTRL3.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00496_FCTRL3\bin\Debug\netcoreapp2.1\00496_FCTRL3.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00496_FCTRL3\bin\Debug\netcoreapp2.1\00496_FCTRL3.dll
+C:\Users\Lenovo\source\repos\SPOJ\00496_FCTRL3\bin\Debug\netcoreapp2.1\00496_FCTRL3.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00496_FCTRL3\obj\Debug\netcoreapp2.1\00496_FCTRL3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00496_FCTRL3\obj\Debug\netcoreapp2.1\00496_FCTRL3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00496_FCTRL3\obj\Debug\netcoreapp2.1\00496_FCTRL3.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00496_FCTRL3\obj\Debug\netcoreapp2.1\00496_FCTRL3.dll
+C:\Users\Lenovo\source\repos\SPOJ\00496_FCTRL3\obj\Debug\netcoreapp2.1\00496_FCTRL3.pdb

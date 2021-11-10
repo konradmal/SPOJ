@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\bin\Debug\netcoreapp2.1\01042_TRN.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\bin\Debug\netcoreapp2.1\01042_TRN.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\bin\Debug\netcoreapp2.1\01042_TRN.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\bin\Debug\netcoreapp2.1\01042_TRN.dll
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\bin\Debug\netcoreapp2.1\01042_TRN.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\obj\Debug\netcoreapp2.1\01042_TRN.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\obj\Debug\netcoreapp2.1\01042_TRN.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\obj\Debug\netcoreapp2.1\01042_TRN.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\obj\Debug\netcoreapp2.1\01042_TRN.dll
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\obj\Debug\netcoreapp2.1\01042_TRN.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01042_TRN\obj\Debug\netcoreapp2.1\01042_TRN.csprojAssemblyReference.cache

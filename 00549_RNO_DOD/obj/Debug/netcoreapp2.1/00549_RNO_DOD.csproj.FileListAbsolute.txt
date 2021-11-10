@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\00549_RNO_DOD\bin\Debug\netcoreapp2.1\00549_RNO_DOD.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00549_RNO_DOD\bin\Debug\netcoreapp2.1\00549_RNO_DOD.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00549_RNO_DOD\bin\Debug\netcoreapp2.1\00549_RNO_DOD.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00549_RNO_DOD\bin\Debug\netcoreapp2.1\00549_RNO_DOD.dll
+C:\Users\Lenovo\source\repos\SPOJ\00549_RNO_DOD\bin\Debug\netcoreapp2.1\00549_RNO_DOD.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00549_RNO_DOD\obj\Debug\netcoreapp2.1\00549_RNO_DOD.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00549_RNO_DOD\obj\Debug\netcoreapp2.1\00549_RNO_DOD.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00549_RNO_DOD\obj\Debug\netcoreapp2.1\00549_RNO_DOD.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00549_RNO_DOD\obj\Debug\netcoreapp2.1\00549_RNO_DOD.dll
+C:\Users\Lenovo\source\repos\SPOJ\00549_RNO_DOD\obj\Debug\netcoreapp2.1\00549_RNO_DOD.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01289_JHTMLLET\bin\Debug\netcoreapp2.1\01289_JHTMLLET.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01289_JHTMLLET\bin\Debug\netcoreapp2.1\01289_JHTMLLET.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01289_JHTMLLET\bin\Debug\netcoreapp2.1\01289_JHTMLLET.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01289_JHTMLLET\bin\Debug\netcoreapp2.1\01289_JHTMLLET.dll
+C:\Users\Lenovo\source\repos\SPOJ\01289_JHTMLLET\bin\Debug\netcoreapp2.1\01289_JHTMLLET.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01289_JHTMLLET\obj\Debug\netcoreapp2.1\01289_JHTMLLET.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01289_JHTMLLET\obj\Debug\netcoreapp2.1\01289_JHTMLLET.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01289_JHTMLLET\obj\Debug\netcoreapp2.1\01289_JHTMLLET.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01289_JHTMLLET\obj\Debug\netcoreapp2.1\01289_JHTMLLET.dll
+C:\Users\Lenovo\source\repos\SPOJ\01289_JHTMLLET\obj\Debug\netcoreapp2.1\01289_JHTMLLET.pdb

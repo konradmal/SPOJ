@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\bin\Debug\netcoreapp2.1\00499_PA05_POT.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\bin\Debug\netcoreapp2.1\00499_PA05_POT.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\bin\Debug\netcoreapp2.1\00499_PA05_POT.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\bin\Debug\netcoreapp2.1\00499_PA05_POT.dll
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\bin\Debug\netcoreapp2.1\00499_PA05_POT.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\obj\Debug\netcoreapp2.1\00499_PA05_POT.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\obj\Debug\netcoreapp2.1\00499_PA05_POT.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\obj\Debug\netcoreapp2.1\00499_PA05_POT.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\obj\Debug\netcoreapp2.1\00499_PA05_POT.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\obj\Debug\netcoreapp2.1\00499_PA05_POT.dll
+C:\Users\Lenovo\source\repos\SPOJ\00499_PA05_POT\obj\Debug\netcoreapp2.1\00499_PA05_POT.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\00769_PTEST\bin\Debug\netcoreapp2.1\00769_PTEST.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00769_PTEST\bin\Debug\netcoreapp2.1\00769_PTEST.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00769_PTEST\bin\Debug\netcoreapp2.1\00769_PTEST.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00769_PTEST\bin\Debug\netcoreapp2.1\00769_PTEST.dll
+C:\Users\Lenovo\source\repos\SPOJ\00769_PTEST\bin\Debug\netcoreapp2.1\00769_PTEST.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00769_PTEST\obj\Debug\netcoreapp2.1\00769_PTEST.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00769_PTEST\obj\Debug\netcoreapp2.1\00769_PTEST.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00769_PTEST\obj\Debug\netcoreapp2.1\00769_PTEST.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00769_PTEST\obj\Debug\netcoreapp2.1\00769_PTEST.dll
+C:\Users\Lenovo\source\repos\SPOJ\00769_PTEST\obj\Debug\netcoreapp2.1\00769_PTEST.pdb

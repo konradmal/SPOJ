@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\bin\Debug\netcoreapp2.1\11059_MWP4_1E.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\bin\Debug\netcoreapp2.1\11059_MWP4_1E.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\bin\Debug\netcoreapp2.1\11059_MWP4_1E.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\bin\Debug\netcoreapp2.1\11059_MWP4_1E.dll
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\bin\Debug\netcoreapp2.1\11059_MWP4_1E.pdb
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\obj\Debug\netcoreapp2.1\11059_MWP4_1E.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\obj\Debug\netcoreapp2.1\11059_MWP4_1E.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\obj\Debug\netcoreapp2.1\11059_MWP4_1E.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\obj\Debug\netcoreapp2.1\11059_MWP4_1E.dll
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\obj\Debug\netcoreapp2.1\11059_MWP4_1E.pdb
+C:\Users\Lenovo\source\repos\SPOJ\11059_MWP4_1E\obj\Debug\netcoreapp2.1\11059_MWP4_1E.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\02181_PROGC05\bin\Debug\netcoreapp2.1\02181_PROGC05.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\02181_PROGC05\bin\Debug\netcoreapp2.1\02181_PROGC05.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\02181_PROGC05\bin\Debug\netcoreapp2.1\02181_PROGC05.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\02181_PROGC05\bin\Debug\netcoreapp2.1\02181_PROGC05.dll
+C:\Users\Lenovo\source\repos\SPOJ\02181_PROGC05\bin\Debug\netcoreapp2.1\02181_PROGC05.pdb
+C:\Users\Lenovo\source\repos\SPOJ\02181_PROGC05\obj\Debug\netcoreapp2.1\02181_PROGC05.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\02181_PROGC05\obj\Debug\netcoreapp2.1\02181_PROGC05.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\02181_PROGC05\obj\Debug\netcoreapp2.1\02181_PROGC05.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\02181_PROGC05\obj\Debug\netcoreapp2.1\02181_PROGC05.dll
+C:\Users\Lenovo\source\repos\SPOJ\02181_PROGC05\obj\Debug\netcoreapp2.1\02181_PROGC05.pdb

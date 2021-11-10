@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01596_WSEGA\bin\Debug\netcoreapp2.1\01596_WSEGA.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01596_WSEGA\bin\Debug\netcoreapp2.1\01596_WSEGA.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01596_WSEGA\bin\Debug\netcoreapp2.1\01596_WSEGA.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01596_WSEGA\bin\Debug\netcoreapp2.1\01596_WSEGA.dll
+C:\Users\Lenovo\source\repos\SPOJ\01596_WSEGA\bin\Debug\netcoreapp2.1\01596_WSEGA.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01596_WSEGA\obj\Debug\netcoreapp2.1\01596_WSEGA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01596_WSEGA\obj\Debug\netcoreapp2.1\01596_WSEGA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01596_WSEGA\obj\Debug\netcoreapp2.1\01596_WSEGA.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01596_WSEGA\obj\Debug\netcoreapp2.1\01596_WSEGA.dll
+C:\Users\Lenovo\source\repos\SPOJ\01596_WSEGA\obj\Debug\netcoreapp2.1\01596_WSEGA.pdb

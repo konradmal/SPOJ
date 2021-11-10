@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01300_JSZYCER\bin\Debug\netcoreapp2.1\01300_JSZYCER.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01300_JSZYCER\bin\Debug\netcoreapp2.1\01300_JSZYCER.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01300_JSZYCER\bin\Debug\netcoreapp2.1\01300_JSZYCER.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01300_JSZYCER\bin\Debug\netcoreapp2.1\01300_JSZYCER.dll
+C:\Users\Lenovo\source\repos\SPOJ\01300_JSZYCER\bin\Debug\netcoreapp2.1\01300_JSZYCER.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01300_JSZYCER\obj\Debug\netcoreapp2.1\01300_JSZYCER.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01300_JSZYCER\obj\Debug\netcoreapp2.1\01300_JSZYCER.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01300_JSZYCER\obj\Debug\netcoreapp2.1\01300_JSZYCER.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01300_JSZYCER\obj\Debug\netcoreapp2.1\01300_JSZYCER.dll
+C:\Users\Lenovo\source\repos\SPOJ\01300_JSZYCER\obj\Debug\netcoreapp2.1\01300_JSZYCER.pdb

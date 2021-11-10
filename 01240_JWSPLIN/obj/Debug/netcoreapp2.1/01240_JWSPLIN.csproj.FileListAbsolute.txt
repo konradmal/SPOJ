@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01240_JWSPLIN\bin\Debug\netcoreapp2.1\01240_JWSPLIN.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01240_JWSPLIN\bin\Debug\netcoreapp2.1\01240_JWSPLIN.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01240_JWSPLIN\bin\Debug\netcoreapp2.1\01240_JWSPLIN.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01240_JWSPLIN\bin\Debug\netcoreapp2.1\01240_JWSPLIN.dll
+C:\Users\Lenovo\source\repos\SPOJ\01240_JWSPLIN\bin\Debug\netcoreapp2.1\01240_JWSPLIN.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01240_JWSPLIN\obj\Debug\netcoreapp2.1\01240_JWSPLIN.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01240_JWSPLIN\obj\Debug\netcoreapp2.1\01240_JWSPLIN.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01240_JWSPLIN\obj\Debug\netcoreapp2.1\01240_JWSPLIN.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01240_JWSPLIN\obj\Debug\netcoreapp2.1\01240_JWSPLIN.dll
+C:\Users\Lenovo\source\repos\SPOJ\01240_JWSPLIN\obj\Debug\netcoreapp2.1\01240_JWSPLIN.pdb

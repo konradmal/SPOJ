@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\09839_KART\bin\Debug\netcoreapp2.1\09839_KART.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\09839_KART\bin\Debug\netcoreapp2.1\09839_KART.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\09839_KART\bin\Debug\netcoreapp2.1\09839_KART.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\09839_KART\bin\Debug\netcoreapp2.1\09839_KART.dll
+C:\Users\Lenovo\source\repos\SPOJ\09839_KART\bin\Debug\netcoreapp2.1\09839_KART.pdb
+C:\Users\Lenovo\source\repos\SPOJ\09839_KART\obj\Debug\netcoreapp2.1\09839_KART.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\09839_KART\obj\Debug\netcoreapp2.1\09839_KART.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\09839_KART\obj\Debug\netcoreapp2.1\09839_KART.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\09839_KART\obj\Debug\netcoreapp2.1\09839_KART.dll
+C:\Users\Lenovo\source\repos\SPOJ\09839_KART\obj\Debug\netcoreapp2.1\09839_KART.pdb

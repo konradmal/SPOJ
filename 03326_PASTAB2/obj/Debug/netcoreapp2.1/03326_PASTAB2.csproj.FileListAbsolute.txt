@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\03326_PASTAB2\bin\Debug\netcoreapp2.1\03326_PASTAB2.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\03326_PASTAB2\bin\Debug\netcoreapp2.1\03326_PASTAB2.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\03326_PASTAB2\bin\Debug\netcoreapp2.1\03326_PASTAB2.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\03326_PASTAB2\bin\Debug\netcoreapp2.1\03326_PASTAB2.dll
+C:\Users\Lenovo\source\repos\SPOJ\03326_PASTAB2\bin\Debug\netcoreapp2.1\03326_PASTAB2.pdb
+C:\Users\Lenovo\source\repos\SPOJ\03326_PASTAB2\obj\Debug\netcoreapp2.1\03326_PASTAB2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\03326_PASTAB2\obj\Debug\netcoreapp2.1\03326_PASTAB2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\03326_PASTAB2\obj\Debug\netcoreapp2.1\03326_PASTAB2.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\03326_PASTAB2\obj\Debug\netcoreapp2.1\03326_PASTAB2.dll
+C:\Users\Lenovo\source\repos\SPOJ\03326_PASTAB2\obj\Debug\netcoreapp2.1\03326_PASTAB2.pdb

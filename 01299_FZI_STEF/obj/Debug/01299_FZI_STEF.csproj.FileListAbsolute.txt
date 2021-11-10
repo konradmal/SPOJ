@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\SPOJ\01299_FZI_STEF\bin\Debug\01299_FZI_STEF.exe.config
+C:\Users\Lenovo\source\repos\SPOJ\01299_FZI_STEF\bin\Debug\01299_FZI_STEF.exe
+C:\Users\Lenovo\source\repos\SPOJ\01299_FZI_STEF\bin\Debug\01299_FZI_STEF.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01299_FZI_STEF\obj\Debug\01299_FZI_STEF.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\01299_FZI_STEF\obj\Debug\01299_FZI_STEF.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01299_FZI_STEF\obj\Debug\01299_FZI_STEF.exe
+C:\Users\Lenovo\source\repos\SPOJ\01299_FZI_STEF\obj\Debug\01299_FZI_STEF.pdb

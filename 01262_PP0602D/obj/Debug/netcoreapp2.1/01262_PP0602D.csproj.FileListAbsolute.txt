@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01262_PP0602D\bin\Debug\netcoreapp2.1\01262_PP0602D.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01262_PP0602D\bin\Debug\netcoreapp2.1\01262_PP0602D.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01262_PP0602D\bin\Debug\netcoreapp2.1\01262_PP0602D.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01262_PP0602D\bin\Debug\netcoreapp2.1\01262_PP0602D.dll
+C:\Users\Lenovo\source\repos\SPOJ\01262_PP0602D\bin\Debug\netcoreapp2.1\01262_PP0602D.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01262_PP0602D\obj\Debug\netcoreapp2.1\01262_PP0602D.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01262_PP0602D\obj\Debug\netcoreapp2.1\01262_PP0602D.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01262_PP0602D\obj\Debug\netcoreapp2.1\01262_PP0602D.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01262_PP0602D\obj\Debug\netcoreapp2.1\01262_PP0602D.dll
+C:\Users\Lenovo\source\repos\SPOJ\01262_PP0602D\obj\Debug\netcoreapp2.1\01262_PP0602D.pdb

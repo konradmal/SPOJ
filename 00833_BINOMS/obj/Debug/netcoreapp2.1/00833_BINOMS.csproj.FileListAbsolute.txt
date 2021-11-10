@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\bin\Debug\netcoreapp2.1\00833_BINOMS.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\bin\Debug\netcoreapp2.1\00833_BINOMS.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\bin\Debug\netcoreapp2.1\00833_BINOMS.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\bin\Debug\netcoreapp2.1\00833_BINOMS.dll
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\bin\Debug\netcoreapp2.1\00833_BINOMS.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\obj\Debug\netcoreapp2.1\00833_BINOMS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\obj\Debug\netcoreapp2.1\00833_BINOMS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\obj\Debug\netcoreapp2.1\00833_BINOMS.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\obj\Debug\netcoreapp2.1\00833_BINOMS.dll
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\obj\Debug\netcoreapp2.1\00833_BINOMS.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00833_BINOMS\obj\Debug\netcoreapp2.1\00833_BINOMS.csprojAssemblyReference.cache

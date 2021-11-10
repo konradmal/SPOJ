@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01261_JPESEL\bin\Debug\netcoreapp2.1\01261_JPESEL.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01261_JPESEL\bin\Debug\netcoreapp2.1\01261_JPESEL.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01261_JPESEL\bin\Debug\netcoreapp2.1\01261_JPESEL.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01261_JPESEL\bin\Debug\netcoreapp2.1\01261_JPESEL.dll
+C:\Users\Lenovo\source\repos\SPOJ\01261_JPESEL\bin\Debug\netcoreapp2.1\01261_JPESEL.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01261_JPESEL\obj\Debug\netcoreapp2.1\01261_JPESEL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01261_JPESEL\obj\Debug\netcoreapp2.1\01261_JPESEL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01261_JPESEL\obj\Debug\netcoreapp2.1\01261_JPESEL.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01261_JPESEL\obj\Debug\netcoreapp2.1\01261_JPESEL.dll
+C:\Users\Lenovo\source\repos\SPOJ\01261_JPESEL\obj\Debug\netcoreapp2.1\01261_JPESEL.pdb

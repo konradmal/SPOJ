@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01844_KC004\bin\Debug\netcoreapp2.1\01844_KC004.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01844_KC004\bin\Debug\netcoreapp2.1\01844_KC004.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01844_KC004\bin\Debug\netcoreapp2.1\01844_KC004.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01844_KC004\bin\Debug\netcoreapp2.1\01844_KC004.dll
+C:\Users\Lenovo\source\repos\SPOJ\01844_KC004\bin\Debug\netcoreapp2.1\01844_KC004.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01844_KC004\obj\Debug\netcoreapp2.1\01844_KC004.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01844_KC004\obj\Debug\netcoreapp2.1\01844_KC004.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01844_KC004\obj\Debug\netcoreapp2.1\01844_KC004.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01844_KC004\obj\Debug\netcoreapp2.1\01844_KC004.dll
+C:\Users\Lenovo\source\repos\SPOJ\01844_KC004\obj\Debug\netcoreapp2.1\01844_KC004.pdb

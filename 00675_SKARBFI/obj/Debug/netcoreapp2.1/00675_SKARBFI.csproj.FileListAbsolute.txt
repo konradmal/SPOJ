@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\00675_SKARBFI\bin\Debug\netcoreapp2.1\00675_SKARBFI.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00675_SKARBFI\bin\Debug\netcoreapp2.1\00675_SKARBFI.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00675_SKARBFI\bin\Debug\netcoreapp2.1\00675_SKARBFI.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00675_SKARBFI\bin\Debug\netcoreapp2.1\00675_SKARBFI.dll
+C:\Users\Lenovo\source\repos\SPOJ\00675_SKARBFI\bin\Debug\netcoreapp2.1\00675_SKARBFI.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00675_SKARBFI\obj\Debug\netcoreapp2.1\00675_SKARBFI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00675_SKARBFI\obj\Debug\netcoreapp2.1\00675_SKARBFI.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00675_SKARBFI\obj\Debug\netcoreapp2.1\00675_SKARBFI.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00675_SKARBFI\obj\Debug\netcoreapp2.1\00675_SKARBFI.dll
+C:\Users\Lenovo\source\repos\SPOJ\00675_SKARBFI\obj\Debug\netcoreapp2.1\00675_SKARBFI.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\36168_ML1_B\bin\Debug\netcoreapp2.1\36168_ML1_B.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\36168_ML1_B\bin\Debug\netcoreapp2.1\36168_ML1_B.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\36168_ML1_B\bin\Debug\netcoreapp2.1\36168_ML1_B.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\36168_ML1_B\bin\Debug\netcoreapp2.1\36168_ML1_B.dll
+C:\Users\Lenovo\source\repos\SPOJ\36168_ML1_B\bin\Debug\netcoreapp2.1\36168_ML1_B.pdb
+C:\Users\Lenovo\source\repos\SPOJ\36168_ML1_B\obj\Debug\netcoreapp2.1\36168_ML1_B.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\36168_ML1_B\obj\Debug\netcoreapp2.1\36168_ML1_B.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\36168_ML1_B\obj\Debug\netcoreapp2.1\36168_ML1_B.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\36168_ML1_B\obj\Debug\netcoreapp2.1\36168_ML1_B.dll
+C:\Users\Lenovo\source\repos\SPOJ\36168_ML1_B\obj\Debug\netcoreapp2.1\36168_ML1_B.pdb

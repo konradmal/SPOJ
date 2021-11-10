@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\00969_ROWNANIE\bin\Debug\netcoreapp2.1\00969_ROWNANIE.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00969_ROWNANIE\bin\Debug\netcoreapp2.1\00969_ROWNANIE.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00969_ROWNANIE\bin\Debug\netcoreapp2.1\00969_ROWNANIE.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00969_ROWNANIE\bin\Debug\netcoreapp2.1\00969_ROWNANIE.dll
+C:\Users\Lenovo\source\repos\SPOJ\00969_ROWNANIE\bin\Debug\netcoreapp2.1\00969_ROWNANIE.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00969_ROWNANIE\obj\Debug\netcoreapp2.1\00969_ROWNANIE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00969_ROWNANIE\obj\Debug\netcoreapp2.1\00969_ROWNANIE.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00969_ROWNANIE\obj\Debug\netcoreapp2.1\00969_ROWNANIE.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00969_ROWNANIE\obj\Debug\netcoreapp2.1\00969_ROWNANIE.dll
+C:\Users\Lenovo\source\repos\SPOJ\00969_ROWNANIE\obj\Debug\netcoreapp2.1\00969_ROWNANIE.pdb

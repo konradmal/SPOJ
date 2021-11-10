@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\00977_TABLICA\bin\Debug\netcoreapp2.1\00977_TABLICA.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00977_TABLICA\bin\Debug\netcoreapp2.1\00977_TABLICA.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00977_TABLICA\bin\Debug\netcoreapp2.1\00977_TABLICA.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00977_TABLICA\bin\Debug\netcoreapp2.1\00977_TABLICA.dll
+C:\Users\Lenovo\source\repos\SPOJ\00977_TABLICA\bin\Debug\netcoreapp2.1\00977_TABLICA.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00977_TABLICA\obj\Debug\netcoreapp2.1\00977_TABLICA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00977_TABLICA\obj\Debug\netcoreapp2.1\00977_TABLICA.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00977_TABLICA\obj\Debug\netcoreapp2.1\00977_TABLICA.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00977_TABLICA\obj\Debug\netcoreapp2.1\00977_TABLICA.dll
+C:\Users\Lenovo\source\repos\SPOJ\00977_TABLICA\obj\Debug\netcoreapp2.1\00977_TABLICA.pdb

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\bin\Debug\netcoreapp2.1\01228_JROWLIN.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\bin\Debug\netcoreapp2.1\01228_JROWLIN.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\bin\Debug\netcoreapp2.1\01228_JROWLIN.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\bin\Debug\netcoreapp2.1\01228_JROWLIN.dll
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\bin\Debug\netcoreapp2.1\01228_JROWLIN.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\obj\Debug\netcoreapp2.1\01228_JROWLIN.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\obj\Debug\netcoreapp2.1\01228_JROWLIN.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\obj\Debug\netcoreapp2.1\01228_JROWLIN.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\obj\Debug\netcoreapp2.1\01228_JROWLIN.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\obj\Debug\netcoreapp2.1\01228_JROWLIN.dll
+C:\Users\Lenovo\source\repos\SPOJ\01228_JROWLIN\obj\Debug\netcoreapp2.1\01228_JROWLIN.pdb

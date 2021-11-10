@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\02598_JZAPKAB\bin\Debug\netcoreapp2.1\02598_JZAPKAB.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\02598_JZAPKAB\bin\Debug\netcoreapp2.1\02598_JZAPKAB.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\02598_JZAPKAB\bin\Debug\netcoreapp2.1\02598_JZAPKAB.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\02598_JZAPKAB\bin\Debug\netcoreapp2.1\02598_JZAPKAB.dll
+C:\Users\Lenovo\source\repos\SPOJ\02598_JZAPKAB\bin\Debug\netcoreapp2.1\02598_JZAPKAB.pdb
+C:\Users\Lenovo\source\repos\SPOJ\02598_JZAPKAB\obj\Debug\netcoreapp2.1\02598_JZAPKAB.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\02598_JZAPKAB\obj\Debug\netcoreapp2.1\02598_JZAPKAB.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\02598_JZAPKAB\obj\Debug\netcoreapp2.1\02598_JZAPKAB.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\02598_JZAPKAB\obj\Debug\netcoreapp2.1\02598_JZAPKAB.dll
+C:\Users\Lenovo\source\repos\SPOJ\02598_JZAPKAB\obj\Debug\netcoreapp2.1\02598_JZAPKAB.pdb

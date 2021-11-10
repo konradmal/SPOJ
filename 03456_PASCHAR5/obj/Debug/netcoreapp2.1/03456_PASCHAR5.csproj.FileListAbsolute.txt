@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\bin\Debug\netcoreapp2.1\03456_PASCHAR5.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\bin\Debug\netcoreapp2.1\03456_PASCHAR5.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\bin\Debug\netcoreapp2.1\03456_PASCHAR5.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\bin\Debug\netcoreapp2.1\03456_PASCHAR5.dll
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\bin\Debug\netcoreapp2.1\03456_PASCHAR5.pdb
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\obj\Debug\netcoreapp2.1\03456_PASCHAR5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\obj\Debug\netcoreapp2.1\03456_PASCHAR5.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\obj\Debug\netcoreapp2.1\03456_PASCHAR5.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\obj\Debug\netcoreapp2.1\03456_PASCHAR5.dll
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\obj\Debug\netcoreapp2.1\03456_PASCHAR5.pdb
+C:\Users\Lenovo\source\repos\SPOJ\03456_PASCHAR5\obj\Debug\netcoreapp2.1\03456_PASCHAR5.csprojAssemblyReference.cache

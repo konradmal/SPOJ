@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\bin\Debug\netcoreapp2.1\06702_RODZ_TRO.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\bin\Debug\netcoreapp2.1\06702_RODZ_TRO.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\bin\Debug\netcoreapp2.1\06702_RODZ_TRO.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\bin\Debug\netcoreapp2.1\06702_RODZ_TRO.dll
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\bin\Debug\netcoreapp2.1\06702_RODZ_TRO.pdb
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\obj\Debug\netcoreapp2.1\06702_RODZ_TRO.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\obj\Debug\netcoreapp2.1\06702_RODZ_TRO.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\obj\Debug\netcoreapp2.1\06702_RODZ_TRO.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\obj\Debug\netcoreapp2.1\06702_RODZ_TRO.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\obj\Debug\netcoreapp2.1\06702_RODZ_TRO.dll
+C:\Users\Lenovo\source\repos\SPOJ\06702_RODZ_TRO\obj\Debug\netcoreapp2.1\06702_RODZ_TRO.pdb

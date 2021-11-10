@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\bin\Debug\netcoreapp2.1\01211_NIEKOLEJ.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\bin\Debug\netcoreapp2.1\01211_NIEKOLEJ.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\bin\Debug\netcoreapp2.1\01211_NIEKOLEJ.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\bin\Debug\netcoreapp2.1\01211_NIEKOLEJ.dll
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\bin\Debug\netcoreapp2.1\01211_NIEKOLEJ.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\obj\Debug\netcoreapp2.1\01211_NIEKOLEJ.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\obj\Debug\netcoreapp2.1\01211_NIEKOLEJ.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\obj\Debug\netcoreapp2.1\01211_NIEKOLEJ.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\obj\Debug\netcoreapp2.1\01211_NIEKOLEJ.dll
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\obj\Debug\netcoreapp2.1\01211_NIEKOLEJ.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01211_NIEKOLEJ\obj\Debug\netcoreapp2.1\01211_NIEKOLEJ.csprojAssemblyReference.cache

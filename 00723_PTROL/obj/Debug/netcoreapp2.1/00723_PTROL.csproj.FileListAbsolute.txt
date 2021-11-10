@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\bin\Debug\netcoreapp2.1\00723_PTROL.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\bin\Debug\netcoreapp2.1\00723_PTROL.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\bin\Debug\netcoreapp2.1\00723_PTROL.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\bin\Debug\netcoreapp2.1\00723_PTROL.dll
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\bin\Debug\netcoreapp2.1\00723_PTROL.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\obj\Debug\netcoreapp2.1\00723_PTROL.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\obj\Debug\netcoreapp2.1\00723_PTROL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\obj\Debug\netcoreapp2.1\00723_PTROL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\obj\Debug\netcoreapp2.1\00723_PTROL.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\obj\Debug\netcoreapp2.1\00723_PTROL.dll
+C:\Users\Lenovo\source\repos\SPOJ\00723_PTROL\obj\Debug\netcoreapp2.1\00723_PTROL.pdb

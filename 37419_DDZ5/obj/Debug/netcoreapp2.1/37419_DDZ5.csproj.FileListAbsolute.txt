@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\37419_DDZ5\bin\Debug\netcoreapp2.1\37419_DDZ5.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\37419_DDZ5\bin\Debug\netcoreapp2.1\37419_DDZ5.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\37419_DDZ5\bin\Debug\netcoreapp2.1\37419_DDZ5.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\37419_DDZ5\bin\Debug\netcoreapp2.1\37419_DDZ5.dll
+C:\Users\Lenovo\source\repos\SPOJ\37419_DDZ5\bin\Debug\netcoreapp2.1\37419_DDZ5.pdb
+C:\Users\Lenovo\source\repos\SPOJ\37419_DDZ5\obj\Debug\netcoreapp2.1\37419_DDZ5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\37419_DDZ5\obj\Debug\netcoreapp2.1\37419_DDZ5.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\37419_DDZ5\obj\Debug\netcoreapp2.1\37419_DDZ5.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\37419_DDZ5\obj\Debug\netcoreapp2.1\37419_DDZ5.dll
+C:\Users\Lenovo\source\repos\SPOJ\37419_DDZ5\obj\Debug\netcoreapp2.1\37419_DDZ5.pdb

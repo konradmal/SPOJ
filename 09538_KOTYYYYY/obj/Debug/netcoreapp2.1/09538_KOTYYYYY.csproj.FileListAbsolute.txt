@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\09538_KOTYYYYY\bin\Debug\netcoreapp2.1\09538_KOTYYYYY.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\09538_KOTYYYYY\bin\Debug\netcoreapp2.1\09538_KOTYYYYY.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\09538_KOTYYYYY\bin\Debug\netcoreapp2.1\09538_KOTYYYYY.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\09538_KOTYYYYY\bin\Debug\netcoreapp2.1\09538_KOTYYYYY.dll
+C:\Users\Lenovo\source\repos\SPOJ\09538_KOTYYYYY\bin\Debug\netcoreapp2.1\09538_KOTYYYYY.pdb
+C:\Users\Lenovo\source\repos\SPOJ\09538_KOTYYYYY\obj\Debug\netcoreapp2.1\09538_KOTYYYYY.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\09538_KOTYYYYY\obj\Debug\netcoreapp2.1\09538_KOTYYYYY.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\09538_KOTYYYYY\obj\Debug\netcoreapp2.1\09538_KOTYYYYY.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\09538_KOTYYYYY\obj\Debug\netcoreapp2.1\09538_KOTYYYYY.dll
+C:\Users\Lenovo\source\repos\SPOJ\09538_KOTYYYYY\obj\Debug\netcoreapp2.1\09538_KOTYYYYY.pdb

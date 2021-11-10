@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\bin\Debug\netcoreapp2.1\00506_FLAMASTE.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\bin\Debug\netcoreapp2.1\00506_FLAMASTE.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\bin\Debug\netcoreapp2.1\00506_FLAMASTE.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\bin\Debug\netcoreapp2.1\00506_FLAMASTE.dll
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\bin\Debug\netcoreapp2.1\00506_FLAMASTE.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\obj\Debug\netcoreapp2.1\00506_FLAMASTE.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\obj\Debug\netcoreapp2.1\00506_FLAMASTE.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\obj\Debug\netcoreapp2.1\00506_FLAMASTE.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\obj\Debug\netcoreapp2.1\00506_FLAMASTE.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\obj\Debug\netcoreapp2.1\00506_FLAMASTE.dll
+C:\Users\Lenovo\source\repos\SPOJ\00506_FLAMASTE\obj\Debug\netcoreapp2.1\00506_FLAMASTE.pdb

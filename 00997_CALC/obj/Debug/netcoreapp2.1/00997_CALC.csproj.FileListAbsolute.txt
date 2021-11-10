@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\bin\Debug\netcoreapp2.1\00997_CALC.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\bin\Debug\netcoreapp2.1\00997_CALC.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\bin\Debug\netcoreapp2.1\00997_CALC.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\bin\Debug\netcoreapp2.1\00997_CALC.dll
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\bin\Debug\netcoreapp2.1\00997_CALC.pdb
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\obj\Debug\netcoreapp2.1\00997_CALC.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\obj\Debug\netcoreapp2.1\00997_CALC.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\obj\Debug\netcoreapp2.1\00997_CALC.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\obj\Debug\netcoreapp2.1\00997_CALC.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\obj\Debug\netcoreapp2.1\00997_CALC.dll
+C:\Users\Lenovo\source\repos\SPOJ\00997_CALC\obj\Debug\netcoreapp2.1\00997_CALC.pdb

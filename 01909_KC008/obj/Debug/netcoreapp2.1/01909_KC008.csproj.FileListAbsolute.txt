@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01909_KC008\bin\Debug\netcoreapp2.1\01909_KC008.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01909_KC008\bin\Debug\netcoreapp2.1\01909_KC008.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01909_KC008\bin\Debug\netcoreapp2.1\01909_KC008.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01909_KC008\bin\Debug\netcoreapp2.1\01909_KC008.dll
+C:\Users\Lenovo\source\repos\SPOJ\01909_KC008\bin\Debug\netcoreapp2.1\01909_KC008.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01909_KC008\obj\Debug\netcoreapp2.1\01909_KC008.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01909_KC008\obj\Debug\netcoreapp2.1\01909_KC008.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01909_KC008\obj\Debug\netcoreapp2.1\01909_KC008.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01909_KC008\obj\Debug\netcoreapp2.1\01909_KC008.dll
+C:\Users\Lenovo\source\repos\SPOJ\01909_KC008\obj\Debug\netcoreapp2.1\01909_KC008.pdb

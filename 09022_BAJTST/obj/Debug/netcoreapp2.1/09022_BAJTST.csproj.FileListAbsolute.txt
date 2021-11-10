@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\09022_BAJTST\bin\Debug\netcoreapp2.1\09022_BAJTST.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\09022_BAJTST\bin\Debug\netcoreapp2.1\09022_BAJTST.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\09022_BAJTST\bin\Debug\netcoreapp2.1\09022_BAJTST.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\09022_BAJTST\bin\Debug\netcoreapp2.1\09022_BAJTST.dll
+C:\Users\Lenovo\source\repos\SPOJ\09022_BAJTST\bin\Debug\netcoreapp2.1\09022_BAJTST.pdb
+C:\Users\Lenovo\source\repos\SPOJ\09022_BAJTST\obj\Debug\netcoreapp2.1\09022_BAJTST.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\09022_BAJTST\obj\Debug\netcoreapp2.1\09022_BAJTST.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\09022_BAJTST\obj\Debug\netcoreapp2.1\09022_BAJTST.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\09022_BAJTST\obj\Debug\netcoreapp2.1\09022_BAJTST.dll
+C:\Users\Lenovo\source\repos\SPOJ\09022_BAJTST\obj\Debug\netcoreapp2.1\09022_BAJTST.pdb

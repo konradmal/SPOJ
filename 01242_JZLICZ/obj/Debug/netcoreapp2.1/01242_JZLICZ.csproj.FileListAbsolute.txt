@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01242_JZLICZ\bin\Debug\netcoreapp2.1\01242_JZLICZ.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01242_JZLICZ\bin\Debug\netcoreapp2.1\01242_JZLICZ.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01242_JZLICZ\bin\Debug\netcoreapp2.1\01242_JZLICZ.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01242_JZLICZ\bin\Debug\netcoreapp2.1\01242_JZLICZ.dll
+C:\Users\Lenovo\source\repos\SPOJ\01242_JZLICZ\bin\Debug\netcoreapp2.1\01242_JZLICZ.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01242_JZLICZ\obj\Debug\netcoreapp2.1\01242_JZLICZ.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01242_JZLICZ\obj\Debug\netcoreapp2.1\01242_JZLICZ.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01242_JZLICZ\obj\Debug\netcoreapp2.1\01242_JZLICZ.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01242_JZLICZ\obj\Debug\netcoreapp2.1\01242_JZLICZ.dll
+C:\Users\Lenovo\source\repos\SPOJ\01242_JZLICZ\obj\Debug\netcoreapp2.1\01242_JZLICZ.pdb

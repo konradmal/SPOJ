@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\bin\Debug\netcoreapp2.1\40211_FR_AA_01.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\bin\Debug\netcoreapp2.1\40211_FR_AA_01.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\bin\Debug\netcoreapp2.1\40211_FR_AA_01.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\bin\Debug\netcoreapp2.1\40211_FR_AA_01.dll
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\bin\Debug\netcoreapp2.1\40211_FR_AA_01.pdb
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\obj\Debug\netcoreapp2.1\40211_FR_AA_01.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\obj\Debug\netcoreapp2.1\40211_FR_AA_01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\obj\Debug\netcoreapp2.1\40211_FR_AA_01.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\obj\Debug\netcoreapp2.1\40211_FR_AA_01.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\obj\Debug\netcoreapp2.1\40211_FR_AA_01.dll
+C:\Users\Lenovo\source\repos\SPOJ\40211_FR_AA_01\obj\Debug\netcoreapp2.1\40211_FR_AA_01.pdb

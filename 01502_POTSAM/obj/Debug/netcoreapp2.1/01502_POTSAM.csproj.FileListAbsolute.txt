@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01502_POTSAM\bin\Debug\netcoreapp2.1\01502_POTSAM.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01502_POTSAM\bin\Debug\netcoreapp2.1\01502_POTSAM.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01502_POTSAM\bin\Debug\netcoreapp2.1\01502_POTSAM.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01502_POTSAM\bin\Debug\netcoreapp2.1\01502_POTSAM.dll
+C:\Users\Lenovo\source\repos\SPOJ\01502_POTSAM\bin\Debug\netcoreapp2.1\01502_POTSAM.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01502_POTSAM\obj\Debug\netcoreapp2.1\01502_POTSAM.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01502_POTSAM\obj\Debug\netcoreapp2.1\01502_POTSAM.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01502_POTSAM\obj\Debug\netcoreapp2.1\01502_POTSAM.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01502_POTSAM\obj\Debug\netcoreapp2.1\01502_POTSAM.dll
+C:\Users\Lenovo\source\repos\SPOJ\01502_POTSAM\obj\Debug\netcoreapp2.1\01502_POTSAM.pdb

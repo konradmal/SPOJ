@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\04138_DOUGHNUT\bin\Debug\netcoreapp2.1\04138_DOUGHNUT.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\04138_DOUGHNUT\bin\Debug\netcoreapp2.1\04138_DOUGHNUT.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\04138_DOUGHNUT\bin\Debug\netcoreapp2.1\04138_DOUGHNUT.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\04138_DOUGHNUT\bin\Debug\netcoreapp2.1\04138_DOUGHNUT.dll
+C:\Users\Lenovo\source\repos\SPOJ\04138_DOUGHNUT\bin\Debug\netcoreapp2.1\04138_DOUGHNUT.pdb
+C:\Users\Lenovo\source\repos\SPOJ\04138_DOUGHNUT\obj\Debug\netcoreapp2.1\04138_DOUGHNUT.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\04138_DOUGHNUT\obj\Debug\netcoreapp2.1\04138_DOUGHNUT.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\04138_DOUGHNUT\obj\Debug\netcoreapp2.1\04138_DOUGHNUT.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\04138_DOUGHNUT\obj\Debug\netcoreapp2.1\04138_DOUGHNUT.dll
+C:\Users\Lenovo\source\repos\SPOJ\04138_DOUGHNUT\obj\Debug\netcoreapp2.1\04138_DOUGHNUT.pdb

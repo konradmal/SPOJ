@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\05136_WZP09_2F\bin\Debug\netcoreapp2.1\05136_WZP09_2F.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\05136_WZP09_2F\bin\Debug\netcoreapp2.1\05136_WZP09_2F.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\05136_WZP09_2F\bin\Debug\netcoreapp2.1\05136_WZP09_2F.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\05136_WZP09_2F\bin\Debug\netcoreapp2.1\05136_WZP09_2F.dll
+C:\Users\Lenovo\source\repos\SPOJ\05136_WZP09_2F\bin\Debug\netcoreapp2.1\05136_WZP09_2F.pdb
+C:\Users\Lenovo\source\repos\SPOJ\05136_WZP09_2F\obj\Debug\netcoreapp2.1\05136_WZP09_2F.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\05136_WZP09_2F\obj\Debug\netcoreapp2.1\05136_WZP09_2F.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\05136_WZP09_2F\obj\Debug\netcoreapp2.1\05136_WZP09_2F.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\05136_WZP09_2F\obj\Debug\netcoreapp2.1\05136_WZP09_2F.dll
+C:\Users\Lenovo\source\repos\SPOJ\05136_WZP09_2F\obj\Debug\netcoreapp2.1\05136_WZP09_2F.pdb

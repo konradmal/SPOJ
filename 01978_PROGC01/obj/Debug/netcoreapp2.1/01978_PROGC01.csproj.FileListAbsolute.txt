@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\bin\Debug\netcoreapp2.1\01978_PROGC01.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\bin\Debug\netcoreapp2.1\01978_PROGC01.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\bin\Debug\netcoreapp2.1\01978_PROGC01.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\bin\Debug\netcoreapp2.1\01978_PROGC01.dll
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\bin\Debug\netcoreapp2.1\01978_PROGC01.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\obj\Debug\netcoreapp2.1\01978_PROGC01.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\obj\Debug\netcoreapp2.1\01978_PROGC01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\obj\Debug\netcoreapp2.1\01978_PROGC01.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\obj\Debug\netcoreapp2.1\01978_PROGC01.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\obj\Debug\netcoreapp2.1\01978_PROGC01.dll
+C:\Users\Lenovo\source\repos\SPOJ\01978_PROGC01\obj\Debug\netcoreapp2.1\01978_PROGC01.pdb

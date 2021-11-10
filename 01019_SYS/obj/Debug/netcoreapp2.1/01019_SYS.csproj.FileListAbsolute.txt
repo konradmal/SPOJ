@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\SPOJ\01019_SYS\bin\Debug\netcoreapp2.1\01019_SYS.deps.json
+C:\Users\Lenovo\source\repos\SPOJ\01019_SYS\bin\Debug\netcoreapp2.1\01019_SYS.runtimeconfig.json
+C:\Users\Lenovo\source\repos\SPOJ\01019_SYS\bin\Debug\netcoreapp2.1\01019_SYS.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\SPOJ\01019_SYS\bin\Debug\netcoreapp2.1\01019_SYS.dll
+C:\Users\Lenovo\source\repos\SPOJ\01019_SYS\bin\Debug\netcoreapp2.1\01019_SYS.pdb
+C:\Users\Lenovo\source\repos\SPOJ\01019_SYS\obj\Debug\netcoreapp2.1\01019_SYS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01019_SYS\obj\Debug\netcoreapp2.1\01019_SYS.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SPOJ\01019_SYS\obj\Debug\netcoreapp2.1\01019_SYS.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SPOJ\01019_SYS\obj\Debug\netcoreapp2.1\01019_SYS.dll
+C:\Users\Lenovo\source\repos\SPOJ\01019_SYS\obj\Debug\netcoreapp2.1\01019_SYS.pdb
