@@ -1,4 +1,5 @@
 # SPOJ Challenge Solutions in C++
+https://pl.spoj.com/users/konradmal99/
 
 ## Overview
 This repository is dedicated to storing my personal solutions to various programming challenges found on the SPOJ (Sphere Online Judge) website. The primary focus of this collection is to provide a comprehensive set of examples and solutions to help others learn and understand the nuances of problem-solving in the field of competitive programming.
