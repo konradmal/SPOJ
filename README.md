@@ -1,2 +1,2 @@
 # SPOJ
-Collection of solutions forchallenges from the SPOJ Website.
+Collection of solutions for challenges from the SPOJ Website.
