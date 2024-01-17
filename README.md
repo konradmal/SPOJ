@@ -18,3 +18,7 @@ The solutions provided here are solely for educational and learning purposes. Th
 
 ## Acknowledgements
 I would like to extend my gratitude to the SPOJ community and the creators of the problems for providing an excellent platform for learning and enhancing programming skills.
+
+## Author
+
+Author: Konrad Maleńczak
